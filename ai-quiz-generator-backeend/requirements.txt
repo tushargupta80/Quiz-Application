@@ -1,0 +1,13 @@
+Flask==3.0.3
+Flask-CORS==4.0.0
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+PyMongo==4.7.1
+PyJWT==2.8.0
+Werkzeug==3.0.3
+# Choose one LLM library based on your preference. Uncomment only one.
+# openai==1.35.1
+ google-generativeai==0.6.0
+# For more robust PDF parsing (optional but recommended for better results)
+# pdfminer.six==20221105
+# PyMuPDF==1.24.5
